@@ -1,0 +1,17 @@
+.shoppingCart{
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    background-color: #000000bf;
+    
+}
+tr, td, tbody {
+    color: white;
+}
+td{
+    border: none;
+}
+tbody{
+    border-bottom: 2px solid white;
+}
